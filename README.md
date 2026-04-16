@@ -1,5 +1,6 @@
 # self-tracking-physiology-cognition
-This project explores the relationship between physiological states, lifestyle interventions, and cognitive-emotional performance through structured self-tracking and controlled behavioral modulation.
+
+This project presents an ongoing longitudinal self-tracking study (2022–present) exploring the relationship between physiological states, lifestyle interventions, and cognitive-emotional performance through structured behavioral modulation.
 
 ---
 
@@ -55,10 +56,9 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 - Intervention:
   - Daily fiber intake ≥ 15g using psyllium husk, lentils, sweet potatoes
   - Concurrent probiotic supplementation
-- Duration:
-  - ~4 weeks
 
 #### Observation
+- Effects began to emerge after approximately one month of continuous intervention
 - Reduced anxiety during unexpected events
 - Increased decision-making speed
 - Improved emotional stability under stress
