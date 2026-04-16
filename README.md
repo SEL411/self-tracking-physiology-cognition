@@ -124,7 +124,7 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
   - Road cycling, martial arts, hiking, swimming, CrossFit
 
 #### Observation
-- Swimming → reduced anxiety (parasympathetic activation)
+- Swimming → reduced anxiety and stress (parasympathetic activation)
 - Martial arts → anger regulation
 - CrossFit → increased agency, self-efficacy, and emotional reset
 
@@ -136,7 +136,7 @@ These effects will be further analyzed in relation to agency and body ownership.
 - Developed an interest in individual differences research through personalized profiling frameworks  
 - Identified the importance of quantification and structured measurement in modeling cognitive and emotional variability  
 - A given outcome emerges from the simultaneous interaction of multiple factors.
-- Cognitive and emotional processes are shaped by internal physiological states, including interoceptive signals, recovery dynamics, and hormonal-metabolic regulation.
+- Cognitive and emotional processes are substantially influenced by internal physiological states, including interoceptive signals, recovery dynamics, and hormonal-metabolic regulation.
 
 ---
 
