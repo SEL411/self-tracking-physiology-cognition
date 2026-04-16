@@ -22,25 +22,18 @@ Daily logs of:
 - Social interactions
 - Dietary intake and supplementation
 
----
-
 ### Intervention Protocols
 Multiple interventions were implemented to modulate physiological and metabolic states, including exercise, dietary adjustments, sleep optimization, and supplementation.
-
----
 
 ### Behavioral and Cognitive Measures
 Cognitive performance and emotional states were systematically recorded, focusing on executive function, decision-making, and affective changes.
 
----
-
 ### Physiological Measures
 Key physiological variables included heart rate intensity, sleep metrics, hormonal cycle phases, and nutritional intake.
 
----
-
 ### Analytical Approach
 Temporal relationships between physiological states and cognitive-emotional outcomes were examined to identify consistent patterns across repeated conditions.
+
 ---
 
 ## 🧪 Experimental Components
