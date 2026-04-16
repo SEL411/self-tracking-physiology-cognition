@@ -105,21 +105,7 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 
 ---
 
-### 5. Sleep Optimization and Cognitive Stability
-
-- Interventions:
-  - Morning sunlight exposure
-  - Magnesium supplementation before sleep
-  - Elimination of pre-sleep screen exposure
-
-#### Observation
-- Deep sleep ratio increased from ~7% to ~20%
-- Sleep timing (22:00–02:00 window) was critical:
-  - Late sleep (same duration) → increased fatigue next day
-
----
-
-### 6.Sleep Optimization and Cognitive Stability
+### 5.Sleep Optimization and Cognitive Stability
 - Observed factors:
   - Sunlight exposure (serotonin-related effects)
   - Reward activities (dopamine-related effects)
@@ -132,7 +118,7 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 
 ---
 
-### 7. Exercise Type and Emotional Regulation
+### 6. Exercise Type and Emotional Regulation
 
 - Modalities examined:
   - Road cycling, martial arts, hiking, swimming, CrossFit
@@ -142,13 +128,15 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 - Martial arts → anger regulation
 - CrossFit → increased agency, self-efficacy, and emotional reset
 
+These effects will be further analyzed in relation to agency and body ownership.
+
 ---
 
 ## 🔍 Key Insights
+- Developed an interest in individual differences research through personalized profiling frameworks  
+- Identified the importance of quantification and structured measurement in modeling cognitive and emotional variability  
 - A given outcome emerges from the simultaneous interaction of multiple factors.
-- Cognitive performance is strongly modulated by physiological load and recovery
-- Emotional states are closely linked to interoceptive signals rather than purely external events
-- Hormonal and metabolic regulation play a central role in cognitive stability
+- Cognitive and emotional processes are shaped by internal physiological states, including interoceptive signals, recovery dynamics, and hormonal-metabolic regulation.
 
 ---
 
