@@ -23,10 +23,10 @@ Daily logs of:
 - Dietary intake and supplementation
 
 ### 
-Intervention Protocols
-Behavioral and Cognitive Measures
-Physiological Measures
-Analytical Approach
+- Intervention Protocols
+- Behavioral and Cognitive Measures
+- Physiological Measures
+- Analytical Approach
 
 ---
 
