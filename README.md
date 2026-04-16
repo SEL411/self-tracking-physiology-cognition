@@ -36,7 +36,7 @@ Intervention protocols, behavioral and cognitive measures, physiological measure
 
 ## 🧪 Experimental Components
 
-### 1. High-Intensity Exercise and Cognitive Performance
+### 1. Maximum heart rate and executive function
 
 - Protocol:
   - CrossFit (3×/week) or mixed schedule (e.g., swimming + CrossFit)
