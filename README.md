@@ -24,13 +24,13 @@ Continuous biometric tracking using Apple Watch:
 - Heart rate (including zone-based intensity)
 - Sleep duration and sleep stage composition
 
-Daily logs of:
-- Cognitive performance (e.g., perceived executive function, task organization, decision speed)
-- Emotional states
-- Social interactions
-- Dietary intake and supplementation
-
-Intervention protocols, behavioral and cognitive measures, physiological measures, and analytical approaches were systematically implemented.
+Daily logs including:
+- Intervention protocols and analytical approaches  
+- Behavioral and cognitive measures (e.g., perceived executive function, task organization, decision speed)  
+- Physiological measures  
+- Emotional states  
+- Social interactions  
+- Dietary intake and supplementation  
 
 ---
 
