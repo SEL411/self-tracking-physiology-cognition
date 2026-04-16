@@ -154,7 +154,5 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 ---
 
 ## 📝 Notes
-
-- This is a self-experimentation study based on longitudinal personal data
-- Observations are descriptive and not intended to establish causal claims
-- Future work aims to formalize these findings within frameworks of interoception, affective neuroscience, and psychoneuroendocrinology
+- Future work aims to formalize these observations within frameworks of self-awareness (interoception, emotion regulation) and psychoneuroendocrinology  
+- Observations are descriptive and not intended to establish causal claims  
