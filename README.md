@@ -5,7 +5,14 @@ This project explores the relationship between physiological states, lifestyle i
 
 ## 🎯 Objective
 
-To investigate how physiological load, diet, sleep, hormonal cycles, and social context interact to influence executive function, emotional regulation, and decision-making.
+This study investigates the interaction between physiological states and cognitive-emotional performance through the following domains:
+
+1. Maximum heart rate and executive function  
+2. Dietary fiber modulation and emotional stability  
+3. Social interaction and physiological state  
+4. Macronutrient modulation across the hormonal cycle  
+5. Sleep optimization and cognitive stability  
+6. Exercise type and emotional regulation  
 
 ---
 
@@ -22,11 +29,7 @@ Daily logs of:
 - Social interactions
 - Dietary intake and supplementation
 
-### 
-- Intervention Protocols
-- Behavioral and Cognitive Measures
-- Physiological Measures
-- Analytical Approach
+Intervention protocols, behavioral and cognitive measures, physiological measures, and analytical approaches were systematically implemented.
 
 ---
 
@@ -116,8 +119,7 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 
 ---
 
-### 6. Neurochemical and Behavioral Modulation
-
+### 6.Sleep Optimization and Cognitive Stability
 - Observed factors:
   - Sunlight exposure (serotonin-related effects)
   - Reward activities (dopamine-related effects)
