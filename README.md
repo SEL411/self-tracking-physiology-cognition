@@ -145,11 +145,10 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 ---
 
 ## 🔍 Key Insights
-
+- A given outcome emerges from the simultaneous interaction of multiple factors.
 - Cognitive performance is strongly modulated by physiological load and recovery
 - Emotional states are closely linked to interoceptive signals rather than purely external events
 - Hormonal and metabolic regulation play a central role in cognitive stability
-- Multi-factor interaction (sleep, diet, exercise, social context) is necessary for optimal mental function
 
 ---
 
