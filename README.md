@@ -8,7 +8,7 @@ This project explores the relationship between physiological states, lifestyle i
 This study investigates the interaction between physiological states and cognitive-emotional performance through the following domains:
 
 1. Maximum heart rate and executive function  
-2. Dietary fiber modulation and emotional stability  
+2. Microbiome modulation and emotional stability  
 3. Social interaction and physiological state  
 4. Macronutrient modulation across the hormonal cycle  
 5. Sleep optimization and cognitive stability  
@@ -50,7 +50,7 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 
 ---
 
-### 2. Dietary Fiber Modulation and Emotional Stability
+### 2. Microbiome modulation and emotional stability  
 
 - Intervention:
   - Daily fiber intake ≥ 15g using psyllium husk, lentils, sweet potatoes
