@@ -12,15 +12,35 @@ To investigate how physiological load, diet, sleep, hormonal cycles, and social 
 ## ⚙️ Methodology
 
 ### Data Collection
-- Continuous biometric tracking using Apple Watch:
-  - Heart rate (including zone-based intensity)
-  - Sleep duration and sleep stage composition
-- Daily logs of:
-  - Cognitive performance (e.g., perceived executive function, task organization, decision speed)
-  - Emotional states
-  - Social interactions
-  - Dietary intake and supplementation
+Continuous biometric tracking using Apple Watch:
+- Heart rate (including zone-based intensity)
+- Sleep duration and sleep stage composition
 
+Daily logs of:
+- Cognitive performance (e.g., perceived executive function, task organization, decision speed)
+- Emotional states
+- Social interactions
+- Dietary intake and supplementation
+
+---
+
+### Intervention Protocols
+Multiple interventions were implemented to modulate physiological and metabolic states, including exercise, dietary adjustments, sleep optimization, and supplementation.
+
+---
+
+### Behavioral and Cognitive Measures
+Cognitive performance and emotional states were systematically recorded, focusing on executive function, decision-making, and affective changes.
+
+---
+
+### Physiological Measures
+Key physiological variables included heart rate intensity, sleep metrics, hormonal cycle phases, and nutritional intake.
+
+---
+
+### Analytical Approach
+Temporal relationships between physiological states and cognitive-emotional outcomes were examined to identify consistent patterns across repeated conditions.
 ---
 
 ## 🧪 Experimental Components
