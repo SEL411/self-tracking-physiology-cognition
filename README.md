@@ -13,7 +13,8 @@ This study investigates the interaction between physiological states and cogniti
 3. Social interaction and physiological state  
 4. Macronutrient modulation across the hormonal cycle  
 5. Sleep optimization and cognitive stability  
-6. Exercise type and emotional regulation  
+6. Neurochemical Modulation (Serotonin, Dopamine, Oxytocin)
+7. Exercise type and emotional regulation  
 
 ---
 
@@ -117,8 +118,21 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
   - Late sleep (same duration) → increased fatigue next day
 
 ---
+### 6. Neurochemical Modulation (Serotonin, Dopamine, Oxytocin)
 
-### 6. Exercise Type and Emotional Regulation
+- Observed factors:
+  - Sunlight exposure (serotonin-related effects)
+  - Reward activities (dopamine-related effects)
+  - Social bonding (oxytocin-related effects)
+
+#### Observation
+- Increased sunlight exposure → improved mood and energy
+- Engagement in rewarding activities → increased productivity despite time cost
+- Social interaction (e.g., lab environment) → increased emotional stability and work efficiency
+
+---
+
+### 7. Exercise Type and Emotional Regulation
 
 - Modalities examined:
   - Road cycling, martial arts, hiking, swimming, CrossFit
