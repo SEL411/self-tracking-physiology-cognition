@@ -14,7 +14,7 @@ This study investigates the interaction between physiological states and cogniti
 4. Macronutrient modulation across the hormonal cycle  
 5. Sleep optimization and cognitive stability  
 6. Neurochemical Modulation (Serotonin, Dopamine, Oxytocin)
-7. Exercise type and emotional regulation  
+7. Exercise type and emotional effect
 
 ---
 
@@ -132,7 +132,7 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 
 ---
 
-### 7. Exercise Type and Emotional Regulation
+### 7. Exercise Type and Emotional Effect
 
 - Modalities examined:
   - Road cycling, martial arts, hiking, swimming, CrossFit
