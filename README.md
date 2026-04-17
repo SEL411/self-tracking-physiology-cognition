@@ -106,15 +106,15 @@ When high-intensity activity (>10 minutes above 80% HRmax) was achieved:
 ---
 
 ### 5. Sleep Optimization and Cognitive Stability
-- Observed factors:
-  - Sunlight exposure (serotonin-related effects)
-  - Reward activities (dopamine-related effects)
-  - Social bonding (oxytocin-related effects)
+- Interventions:
+  - Morning sunlight exposure
+  - Magnesium supplementation before sleep
+  - Elimination of pre-sleep screen exposure
 
 #### Observation
-- Increased sunlight exposure → improved mood and energy
-- Engagement in rewarding activities → increased productivity despite time cost
-- Social interaction (e.g., lab environment) → increased emotional stability and work efficiency
+- Deep sleep ratio increased from ~7% to ~20%
+- Sleep timing (22:00–02:00 window) was critical:
+  - Late sleep (same duration) → increased fatigue next day
 
 ---
 
