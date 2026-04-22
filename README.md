@@ -147,9 +147,10 @@ These effects will be further analyzed in relation to agency and body ownership.
 ---
 
 ## 🔍 Key Insights
-- Developed an interest in individual differences research through personalized profiling frameworks  
+- This framework can be extended into a formal experimental design to model individual differences in cognitive-emotional regulation.
 - Identified the importance of quantification and structured measurement in modeling cognitive and emotional variability  
-- A given outcome emerges from the simultaneous interaction of multiple factors.
+- The results indicate that cognitive-emotional outcomes are not driven by single variables, but by the interaction of multiple physiological factors 
+(e.g., sleep, nutrition, exercise, hormonal state).
 - Cognitive and emotional processes are substantially influenced by internal physiological states, including interoceptive signals, recovery dynamics, and hormonal-metabolic regulation.
 
 ---
